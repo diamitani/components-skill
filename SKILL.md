@@ -1,4 +1,10 @@
-# {{COMPANY_NAME}} Dashboard — Component Library
+---
+name: components
+description: >
+  Quick-copy components for building dashboards fast. <div class="progress-wrap"> Use this skill when working with components tasks or workflows.
+---
+
+# Enterprise Platform Dashboard — Component Library
 
 Quick-copy components for building dashboards fast.
 
