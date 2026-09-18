@@ -1,4 +1,4 @@
-# {{COMPANY_NAME}} Dashboard — Component Library
+# Enterprise Platform Dashboard — Component Library
 
 **Category:** 99-uncategorized
 **Source:** components.md
@@ -17,7 +17,7 @@ This repository contains a generalized AI agent skill ready for use with Claude 
 
 2. Import the skill into your agent framework:
    ```bash
-   # For Claude Code
+   # for AI Agents (Claude Code, Cursor, Copilot, Cline, Windsurf, Hermes)
    @skill SKILL.md
    
    # For Hermes Agent
